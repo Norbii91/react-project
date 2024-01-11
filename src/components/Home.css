@@ -1,0 +1,9 @@
+/* Home.css */
+#linkecske{
+    color:black;
+    text-decoration: none;
+}
+
+#linkecske:visited{
+    color: brown;
+}

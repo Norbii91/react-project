@@ -1,0 +1,44 @@
+/* Navbar.css */
+.top-navbar {
+    background: linear-gradient(to right, #ffcc80, #ffd699);
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  left:0;
+
+  }
+  
+  .top-navbar ul {
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .top-navbar ul a {
+    margin-right: 25px;
+  }
+  .top-navbar div{
+    width: 100%;
+  }
+
+  .top-navbar .jobbra{
+    
+    text-align: right;
+  }
+
+  .top-navbar a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .top-navbar a:hover {
+    text-decoration: underline;
+  }
+  
